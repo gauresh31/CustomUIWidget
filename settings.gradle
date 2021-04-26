@@ -1,0 +1,4 @@
+include ':customwidget'
+include ':app:custombutton'
+include ':app'
+rootProject.name = "CustomUIWidgets"

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Custom UI Widgets</string>
+    <string name="str_user_name">username</string>
+    <string name="str_fullname">fullname</string>
+    <string name="str_pass">password</string>
+    <string name="str_enter_full_name">Enter Full Name</string>
+    <string name="str_is_logged_in">is_logged_in</string>
+    <string name="str_is_registered">is_registered</string>
+    <string name="str_last_time">last_time</string>
+</resources>
